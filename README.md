@@ -13,9 +13,7 @@ Welcome to the Mapty App. This app was built following a tutorial as part of <a 
 ## Features
 
 ## Screenshots
-
-![image](https://user-images.githubusercontent.com/99369057/217674920-a4a4d4dd-590e-4033-a0dd-85f744207b85.png)
-
+<img src="https://user-images.githubusercontent.com/99369057/217674920-a4a4d4dd-590e-4033-a0dd-85f744207b85.png" width="600">
 
 ## Project Status
 Project is: complete. 
